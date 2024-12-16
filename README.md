@@ -1,6 +1,6 @@
 # Gabriel Silva - Software Developer Portfolio
 
-Welcome to the portfolio of Gabriel Silva, a Software Developer passionate about creating innovative solutions. This portfolio website is built using the following modern web technologies:
+This portfolio website is built using the following modern web technologies:
 
 - **Next.js**: The React framework used for building fast and scalable web applications. It provides server-side rendering (SSR), static site generation (SSG), and API routes.
 - **Tailwind CSS** (Utility-First CSS Framework): A utility-first CSS framework for creating highly customizable and responsive designs.
