@@ -23,7 +23,7 @@ export default function Introduction() {
     <section className="py-20 bg-gray-100 dark:bg-gray-800">
       <div className="container mx-auto px-4 text-center">
         <Image
-          src="src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/GB.jpg"
+          src="/GB.jpg"
           alt="Gabriel Silva"
           width={200}
           height={200}
