@@ -25,7 +25,7 @@ const projects = [
       pt: "Esse site tem o propósito de me apresentar como profissional e demonstrar parte das minhas habilidades com desenvolvimento Frond-end."
     },
     technologies: ['Next.js', 'React', 'TailwindCSS'],
-    github: "https://github.com/gasn331/gasn331.github.io",
+    github: "https://github.com/gasn331/portfolio",
   },
   {
     title: {
